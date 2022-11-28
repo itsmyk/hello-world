@@ -1,2 +1,3 @@
 # hello-world
-Seminar class 
+Michael Barber
+Seminar Class
